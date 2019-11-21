@@ -6,9 +6,9 @@
 
 Creado por:
 
-@author: Fatima Albeño					18060
-@author: Juan Fernando De Leon Quezada	17822
-@author: Jose Amado Garcia				181469
+@author: Fatima Albeño						18060
+@author: Juan Fernando De Leon Quezada		17822
+@author: Jose Amado Garcia					181469
 
 Programa capaz de listar todas las particiones de longitud K de cualquier numero entero N.
 
